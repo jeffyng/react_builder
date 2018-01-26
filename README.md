@@ -1,10 +1,6 @@
 # Description
 A simple way to start creating React projects without the hassle of setting up Webpack and Babel. 
 
-
-# Clone Repo
-git clone https://github.com/jeffyng/react_builder  <-- Run on terminal command line
-
 # Install Dependencies
 npm install  <-- Run on terminal command line
 
