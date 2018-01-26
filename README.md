@@ -1,26 +1,26 @@
-# react_builder
-
 # Description
 A simple way to start creating React projects without the hassle of setting up Webpack and Babel. 
 
-# Getting Started
-Run:
-=> git clone https://github.com/jeffyng/react_builder
-=> npm install
+
+# Clone Repo
+git clone https://github.com/jeffyng/react_builder  <-- Run on terminal command line
+
+# Install Dependencies
+npm install  <-- Run on terminal command line
 
 # OPTION 1: To have Webpack build the bundle once:
-Run:
-=> npm build
+npm build <-- Run on terminal command line
 
 # OPTION 2: To have Webpack constantly monitor and update changes:
-Run:
-=> npm dev
+npm dev  <-- Run on terminal command line 
 
+# Finally:
+Open index.html located /dist/index.html
 
-# Webpack input source:
+# Note: Webpack input source:
 /src/js/app.js
 
-# Webpack output:
+# Note: Webpack output:
 /dist/js/bundle.js
 
-Finally open index.html at /dist/index.html
+
