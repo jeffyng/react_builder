@@ -6,13 +6,13 @@ A simple way to start creating React projects without the hassle of setting up W
 # Getting Started:
 Run 'npm install' to install dependencies(webpack, babel, react)
 
-Webpack input file : /src/js/app.js
-Webpack output file: /dist/js/bundle.js
+Webpack input: src/js/app.js
+Webpack output: dist/js/bundle.js
+html file: dist/index.html
 
 To have Webpack build the bundle once:
-Run 'npm build' 
+Run 'npm build'
 
-To have Webpack monitor and watch for changes on app.js:
+To have Webpack constantly monitor and update changes:
 Run 'npm dev'
 
-Open /dist/index.html 
